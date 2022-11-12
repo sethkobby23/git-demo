@@ -34,9 +34,3 @@ Add your focus keyword at the beginning of the file name.
 If your file is an image, its file name should reflect the alt tag description — but without filler words like “on“, “in”, “to”, etc.
 Note: focus keyword means the most important keyword that describes your image or file the best for people who typically search for that type of content.
 
-SEO-friendly image file name example
-This is my dog Naya, she’s having a bit of a hard time with the hot weather during the Danish summer, but she’s always happy, as long as she can be outside:
-
-My black dog Naya is feeling the summer heat, but she’s still happy
-She’s such a cutie
-Here’s how the HTML code looks for embedding the image above:
